@@ -1,0 +1,2 @@
+# OpenWether
+Gives Whether Information
